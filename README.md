@@ -1,5 +1,5 @@
 # football-journey-planner
-https://jalilyosufi.github.io/football-journey-planner/g
+https://jalilyosufi.github.io/football-journey-planner/
 
 ## User Story
 
